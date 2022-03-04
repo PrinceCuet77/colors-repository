@@ -6,4 +6,5 @@ blue
 indigo
 violate
 
+stored in stash
 BLACK
